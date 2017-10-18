@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#tabela {
+  margin: auto;
+  float: none;
+}
+
+#formulario {
+  margin: auto;
+  float: none;
+}
